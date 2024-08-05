@@ -1,0 +1,110 @@
+[
+    {
+        "title": "PEDIDOR DE PEDIDOS",
+        "description": "Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1",
+        "images": [
+            "../../img/ejemplo.jpg",
+            "../../img/fotoPerfil.png"
+        ],
+        "github": "https://github.com/usuario/proyecto1",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/email.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/email.svg",
+                "description": "Java, React, Html, Css, MySQL"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/email.svg",
+                "description": "Netbets, Visual Studio, MySQL Worbkeckk, MySQL Worbkeckk"
+            }
+        ]
+    },
+    {
+        "title": "Proyecto 2",
+        "description": "Descripción corta del Proyecto 2 Descripción corta del Proyecto 2 Descripción corta del Proyecto 2 Descripción corta del Proyecto 2",
+        "images": [
+            "../../img/ejemplo.jpg",
+            "../../img/fotoPerfil.png"
+        ],
+        "github": "",
+        "youtubeId": "eYq7WapuDLU",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/email.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/email.svg",
+                "description": "Descripción de la característica 2 Descripción de la característica 2"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/email.svg",
+                "description": "Descripción de la característica 2"
+            }
+        ]
+    },
+    {
+        "title": "PEDIDOR DE PEDIDOS",
+        "description": "Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1",
+        "images": [
+            "../../img/ejemplo.jpg",
+            "../../img/fotoPerfil.png"
+        ],
+        "github": "https://github.com/usuario/proyecto1",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/email.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/email.svg",
+                "description": "Descripción de la característica 2 Descripción de la característica 2"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/email.svg",
+                "description": "Descripción de la característica 2"
+            }
+        ]
+    },
+    {
+        "title": "PEDIDOR DE PEDIDOS",
+        "description": "Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1",
+        "images": [
+            "../../img/ejemplo.jpg",
+            "../../img/fotoPerfil.png"
+        ],
+        "github": "https://github.com/usuario/proyecto1",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/email.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/email.svg",
+                "description": "Descripción de la característica 2 Descripción de la característica 2"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/email.svg",
+                "description": "Descripción de la característica 2"
+            }
+        ]
+    }
+]

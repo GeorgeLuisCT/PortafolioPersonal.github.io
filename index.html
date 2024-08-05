@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeorgeCT</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Candal&family=Dancing+Script&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="carouselStyles.css">
+</head>
+
+<body>
+    <div class="container">
+        <aside>
+            <nav>
+                <div class="profile">
+                    <img src="img/fotoPerfil.png" alt="">
+                </div>
+
+                <div class="opc">
+                    <ul id="menu">
+                        <li>
+                            <button class="selected" onclick="mostrarContenido('sectionHome', 1)">Home</button>
+                        </li>
+                        <li>
+                            <button onclick="mostrarContenido('sectionProyect', 2)">Proyectos</button>
+                        </li>
+                        <li>
+                            <button onclick="mostrarContenido('sectionEducation', 3)">Educación</button>
+                        </li>
+                        <li>
+                            <button onclick="mostrarContenido('sectionSkills', 4)">Habilidades</button>
+                        </li>
+                        <li>
+                            <button onclick="mostrarContenido('contact', 5)">Contactame</button>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </aside>
+        <main style="position: relative;">
+
+            <div>
+                <img class="idicadorbar" src="img/Indicatorba1.svg" alt="">
+                <img class="idicadorbar" src="img/Indicatorba1.svg" alt="">
+                <img class="idicadorbar" src="img/idicadorbar4.svg" alt="">
+                <img class="idicadorbar" src="img/indicatorbar2.svg" alt="">
+                <img class="idicadorbar" src="img/idicadorbar3.svg" alt="">
+            </div>
+
+            <section class="sectionHome sectionVisible">
+                <div class="content">
+                    <h1>Estudiante de ingeniera de sistemas especializado en desarrollo de software</h1>
+                    <div>
+                        <button id="openModalBtn" class="aboutme">Sobre mí</button>
+                        <button id="descargarBtn" class="donwloadcv">Descargar CV</button>
+                    </div>
+                </div>
+                <div class="background">
+                    <img src="img/unity.png" alt="">
+                    <img src="img/Card.png" alt="">
+                    <img src="img/c-sharp.png" alt="">
+                    <img src="img/java.png" alt="">
+                </div>
+
+                <div id="myModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p>Este es el contenido del modal. Puedes poner aquí la información que desees mostrar.</p>
+                    </div>
+                </div>
+
+            </section>
+
+            <section class="sectionProyect">
+
+                <div class="background">
+                    <img src="img/backgroundproyects.png" alt="">
+                </div>
+
+                <div class="maincaroucel">
+                    <p>Mis Proyectos Personales</p>
+                    <div id="carousel-container">
+                        <div id="carousel">
+                            <!-- Elementos del carrusel -->
+                            <div class="carousel-item item-1">
+                                <img src="img/homemobilepps.png" alt="">
+                                <a href="proyects/aplicationMoviles/applicationMovlies.html" target="_blank">
+                                    <button>Aplicaciones Móviles</button>
+                                </a>
+                            </div>
+                            <div class="carousel-item item-2">
+                                <img src="img/desktopapplication.png" alt="">
+                                <a href="URL_DE_DESTINO" target="_blank">
+                                    <button>Aplicaciones de escritorio</button>
+                                </a>
+                            </div>
+                            <div class="carousel-item item-3">
+                                <img src="img/videomagames.png" alt="">
+                                <a href="URL_DE_DESTINO" target="_blank">
+                                    <button>Videojuegos</button>
+                                </a>
+
+                            </div>
+                            <div class="carousel-item item-5">
+                                <img src="img/others.png" alt="">
+                                <a href="URL_DE_DESTINO" target="_blank">
+                                    <button>Otros Proyectos</button>
+                                </a>
+                            </div>
+                            <div class="carousel-item item-6">
+                               
+                                <img src="img/webaplication.png" alt="">
+                                <a href="URL_DE_DESTINO" target="_blank">
+                                    <button>Paginas y aplicaciones Web</button>
+                                </a>
+                            </div>
+
+                            <!-- Agrega más elementos según sea necesario -->
+                        </div>
+                    </div>
+
+                    <script src="carouselScript.js"></script>
+                </div>
+
+            </section>
+
+            <section class="sectionEducation">
+                <div class="backgroundEducation">
+                    <div class="circle circle1"></div>
+                    <div class="circle circle2"></div>
+                </div>
+                <div class="maineducation">
+                    <p>Estudio en curso de ingeniera de sistemas |
+                        2020 – 2023 | Universidad Toribio Rodríguez
+                        De Mendoza</p>
+                    <div class="containerinfo">
+                        <div class="details">
+                            <div class="timeline">
+                                <div class="line">
+
+                                    <div class="points">
+                                        <div class="point">
+                                            <p class="yearbottom">2020</p>
+                                            <img src="img/iconCirculeEducation.svg" alt="">
+                                            <img class="idicatorbottom" src="img/idicatorEducation.svg" alt=""> 
+                                            <p class="textbottom"> Constancia por primer puesto en el 
+                                                programa laboratorio de emprendimientos</p>
+                                        </div>
+                                        <div class="point">
+                                            <p class="texttop"> Constancia por primer puesto en 
+                                                Innovation challenge</p> 
+                                            <img src="img/iconCirculeEducation.svg" alt="">
+                                            <img class="indicatortop" src="img/idicatorEducation.svg" alt=""> 
+                                            <p class="yeartop">2021</p>
+                                        </div>
+                                        <div class="point">
+                                            <p class="yearbottom">2021</p>
+                                            <img src="img/iconCirculeEducation.svg" alt="">
+                                            <img  class="idicatorbottom" src="img/idicatorEducation.svg" alt="">
+                                            <p class="textbottom">Constancia por primer puesto en el 
+                                                programa laboratorio de emprendimientos</p> 
+                                        </div>
+                                        <div class="point">
+                                            <p class="texttop">Constancia por primer puesto en 
+                                                Innovation challenge</p> 
+                                            <img src="img/iconCirculeEducation.svg" alt="">
+                                            <img class="indicatortop" src="img/idicatorEducation.svg" alt=""> 
+                                            <p class="yeartop">2022</p>
+                                        </div>
+                                        <div class="point">
+                                            <p class="yearbottom">2023</p>
+                                            <img src="img/iconCirculeEducation.svg" alt="">
+                                            <img class="idicatorbottom" src="img/idicatorEducation.svg" alt=""> 
+                                            <p class="textbottom">Constancia por primer puesto en el 
+                                                programa laboratorio de emprendimientos</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="sectionSkills">
+                <div class="skillscontent">
+                    <div class="skillfield">
+                        <p>Habilidades Tecnicas</p>
+                        <div class="info">
+                            <ul>
+                                <li>Lenguajes de programación (Java, C#, 
+                                    Python, Javascript, Kotlín)</li>
+                                <li> Microsoft Office (Word, PowerPoint, 
+                                    Exel)</li>
+                                <li>Diseño Web (HTML, CSS)
+                                </li>
+                            
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="skillfield">
+                        <p>Habilidades Blandas</p>
+                        <div class="info">
+                            <ul>
+                                <li>Responsabilidad</li>
+                                <li>Trabajo en equipo</li>
+                                <li>Trato con personas</li>
+                                <li>Aprendizaje continuado</li>
+                                <li>Inteligencia Emocional</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="contact">
+
+                <div class="containercontact">
+                    <div class="content">
+                        <div class="info">
+                            <p class="title">Pongase en contacto</p>
+                            <p class="text">Soy muy accesible y me encantaría hablar contigo. No dude en llamarme,
+                                envíeme un correo electrónico. Sígueme en las redes sociales o simplemente completa el
+                                formulario de consulta.</p>
+
+                            <ul>
+                                <li>
+                                    <div> <img src="img/email.svg" alt="Email"> </div>
+                                    <p>georgeluisct19@gmail.com</p>
+                                </li>
+                                <li>
+                                    <div> <img src="img/phone.svg" alt="Phone"> </div>
+                                    <p>+51 901 241 640</p>
+                                </li>
+                                <li>
+                                    <div> <img src="img/whatsapp.svg" alt="whatsapp"> </div>
+                                    <p>+51 951 194 623</p>
+                                </li>
+                                <li>
+                                    <div> <img src="img/github.svg" alt="Email"> </div>
+                                    <p>github.com/GeorgeLuisCT</p>
+                                </li>
+                                <li>
+                                    <div> <img src="img/instagram.svg" alt="whatsapp"> </div>
+                                    <p>instagram.com/george_ct_19/</p>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <form action="">
+                            <input type="text" placeholder="Nombre">
+                            <input type="email" placeholder="Correo">
+                            <input type="text" placeholder="Asunto">
+                            <textarea name="" id="" cols="30" rows="10" placeholder="Tu mensaje"></textarea>
+                            <button>Enviar</button>
+                        </form>
+                    </div>
+                </div>
+
+            </section>
+
+        </main>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
