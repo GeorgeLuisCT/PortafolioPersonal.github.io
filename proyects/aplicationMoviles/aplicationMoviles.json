@@ -11,7 +11,7 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "2 meses"
             },
             {
@@ -21,7 +21,7 @@
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Netbets, Visual Studio, MySQL Worbkeckk, MySQL Worbkeckk"
             }
         ]
@@ -38,17 +38,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "2 meses"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Descripción de la característica 2 Descripción de la característica 2"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Descripción de la característica 2"
             }
         ]
@@ -65,17 +65,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "2 meses"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Descripción de la característica 2 Descripción de la característica 2"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Descripción de la característica 2"
             }
         ]
@@ -92,17 +92,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "2 meses"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Descripción de la característica 2 Descripción de la característica 2"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/email.svg",
+                "icon": "../../img/email.svg",
                 "description": "Descripción de la característica 2"
             }
         ]
