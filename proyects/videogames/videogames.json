@@ -15,18 +15,18 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "../img/icono_tiempo.svg",
-                "description": "1 mes"
+                "icon": "/img/icono_tiempo.svg",
+                "description": "8 meses"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "C#"
             },
             {
                 "title": "Herramientas:",
-                "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Unity"
             }
         ]
     },
@@ -44,24 +44,24 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "../img/icono_tiempo.svg",
+                "icon": "/img/icono_tiempo.svg",
                 "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "C#"
             },
             {
                 "title": "Herramientas:",
-                "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Unity"
             }
         ]
     },
     {
         "title": "Terror y acertijos",
-        "description": "PROTOTIPO. Los jugadores deben navegar por laberintos, enfrentarse a enemigos y superar diferentes desafíos para avanzar en la historia. El juego combina elementos de horror con mecánicas de acción y resolución de problemas",
+        "description": "PROTOTIPO. Los jugadores deben navegar por laberintos, enfrentarse a enemigos y superar diferentes desafíos para avanzar en la historia. El juego combina elementos de horror con mecánicas de acción y resolución de problemas.",
         "images": [
             "./videogames/images/obali1.webp",
             "./videogames/images/obali2.webp",
@@ -74,18 +74,18 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "../img/icono_tiempo.svg",
-                "description": "1 mes"
+                "icon": "/img/icono_tiempo.svg",
+                "description": "2 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "C#"
             },
             {
                 "title": "Herramientas:",
-                "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Unity"
             }
         ]
     }

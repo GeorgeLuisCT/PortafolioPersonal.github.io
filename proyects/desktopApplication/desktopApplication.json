@@ -19,17 +19,17 @@
             {
                 "title": "Timpo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
-                "description": "1 mes"
+                "description": "4 meses"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, MySQL, React"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "description": "Apache NetBeans, workbench, Visual Studio"
             }
         ]
     },
@@ -51,17 +51,17 @@
             {
                 "title": "Timpo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
-                "description": "1 mes"
+                "description": "4 meses"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, MySQL"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "description": "Apache NetBeans, workbench"
             }
         ]
     },
@@ -81,23 +81,23 @@
             {
                 "title": "Timpo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
-                "description": "1 mes"
+                "description": "2 meses"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, MySQL"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "description": "Apache NetBeans, workbench"
             }
         ]
     },
     {
         "title": "ERP Altamente Configurable",
-        "description": "EN DESARROLLO, diseñado para ser altamente configurable y adaptarse a las necesidades específicas de diferentes empresas. Incluirá módulos para la gestión de ventas, compras, inventario, clientes, empleados, y más, con opciones de personalización en la interfaz y la configuración de roles",
+        "description": "EN DESARROLLO, diseñado para ser altamente configurable y adaptarse a las necesidades específicas de diferentes empresas. Incluirá módulos para la gestión de ventas, compras, inventario, clientes, empleados, y más, con opciones de personalización en la interfaz y la configuración de roles.",
         "images": [
             "./desktopApplication/images/loginERP.webp",
             "./desktopApplication/images/configuracionERP.webp",
@@ -109,17 +109,17 @@
             {
                 "title": "Timpo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
-                "description": "1 mes"
+                "description": "En curso"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, FXML, PostgreSQL"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "description": "Apache NetBeans"
             }
         ]
     }
