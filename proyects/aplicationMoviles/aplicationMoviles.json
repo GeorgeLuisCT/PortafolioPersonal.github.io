@@ -1,109 +1,86 @@
 [
     {
-        "title": "PEDIDOR DE PEDIDOS",
-        "description": "Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1",
+        "title": "Seguridad Personal",
+        "description": "COMPATIBLE CON RELOJ INTELIGENTE. Registra y comparte (audios, fotos, ubicación, frecuencia cardíaca) con contactos de confianza y una central en momentos específicos de peligro personal. Modos de activación de alarma: dispositivo Bluetooth, manual, botón flotante, frecuencia cardíaca irregular, movimientos no comunes.",
         "images": [
-            "../../img/ejemplo.jpg",
-            "../../img/fotoPerfil.png"
+            "./aplicationMoviles/images/cuartaImagen.webp",
+            "./aplicationMoviles/images/primeraImagen.webp",
+            "./aplicationMoviles/images/segundaImagen.webp",
+            "./aplicationMoviles/images/terceraImagen.webp"
+
         ],
-        "github": "https://github.com/usuario/proyecto1",
+        "github": "",
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "../../img/email.svg",
-                "description": "2 meses"
+                "icon": "/img/icono_tiempo.svg",
+                "description": "3 meses"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/email.svg",
-                "description": "Java, React, Html, Css, MySQL"
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "../../img/email.svg",
-                "description": "Netbets, Visual Studio, MySQL Worbkeckk, MySQL Worbkeckk"
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Adroid studio, API AppMovilMyPersonalSaferyRest"
             }
         ]
     },
     {
-        "title": "Proyecto 2",
-        "description": "Descripción corta del Proyecto 2 Descripción corta del Proyecto 2 Descripción corta del Proyecto 2 Descripción corta del Proyecto 2",
+        "title": "Gestión de finanzas",
+        "description": "RESALTA EL USO DE GRÁFICOS EN ANDROID. Permite rastrear gastos y depósitos, categorizando cada transacción y mostrando un resumen visual de hábitos financieros. Incluye funcionalidades como la adición rápida de gastos, historial de movimientos, y estadísticas detalladas en gráficos",
         "images": [
-            "../../img/ejemplo.jpg",
-            "../../img/fotoPerfil.png"
+            "./aplicationMoviles/images/finazas1.webp",
+            "./aplicationMoviles/images/finanzas2.webp"
         ],
         "github": "",
         "youtubeId": "eYq7WapuDLU",
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "../../img/email.svg",
-                "description": "2 meses"
+                "icon": "/img/icono_tiempo.svg",
+                "description": "20 dias"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "../../img/email.svg",
-                "description": "Descripción de la característica 2 Descripción de la característica 2"
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "../../img/email.svg",
-                "description": "Descripción de la característica 2"
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Adroid studio"
             }
         ]
     },
     {
-        "title": "PEDIDOR DE PEDIDOS",
-        "description": "Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1",
+        "title": "Delivery y reserva de menú",
+        "description": "PROTOTIPO. Gestión de pedidos en restaurantes. Permite registrarse, visualizar el menú, seleccionar platillos, agregar extras, y realizar pagos de manera rápida.Incluye opciones de pago digital y permite hacer reservas y personalizadas. Envia el pedido automaticamente al correo del restaruante.",
         "images": [
-            "../../img/ejemplo.jpg",
-            "../../img/fotoPerfil.png"
+            "./aplicationMoviles/images/restarantpeditos1.webp",
+            "./aplicationMoviles/images/pedidosrestaruante2.webp",
+             "./aplicationMoviles/images/pedidosrestaruante3.webp"
         ],
-        "github": "https://github.com/usuario/proyecto1",
+        "github": "https://github.com/GeorgeLuisCT/AppMovilMenuRestaurant.git",
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "../../img/email.svg",
-                "description": "2 meses"
+                "icon": "/img/icono_tiempo.svg",
+                "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "../../img/email.svg",
-                "description": "Descripción de la característica 2 Descripción de la característica 2"
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "../../img/email.svg",
-                "description": "Descripción de la característica 2"
-            }
-        ]
-    },
-    {
-        "title": "PEDIDOR DE PEDIDOS",
-        "description": "Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1 Descripción corta del Proyecto 1",
-        "images": [
-            "../../img/ejemplo.jpg",
-            "../../img/fotoPerfil.png"
-        ],
-        "github": "https://github.com/usuario/proyecto1",
-        "youtubeId": "dQw4w9WgXcQ",
-        "features": [
-            {
-                "title": "Timpo de desarrollo:",
-                "icon": "../../img/email.svg",
-                "description": "2 meses"
-            },
-            {
-                "title": "Lenguajes:",
-                "icon": "../../img/email.svg",
-                "description": "Descripción de la característica 2 Descripción de la característica 2"
-            },
-            {
-                "title": "Herramientas:",
-                "icon": "../../img/email.svg",
-                "description": "Descripción de la característica 2"
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Adroid studio, Firabase"
             }
         ]
     }

@@ -1,0 +1,83 @@
+[
+    {
+        "title": "GAEDET - Logo",
+        "description": "Utiliza un engranaje y circuitos electrónicos como elementos clave, simbolizando la tecnología, la innovación y la ingeniería. La tipografía robusta y en mayúsculas da una sensación de solidez y profesionalismo. El color azul oscuro utilizado en el diseño añade un toque de seriedad y confiabilidad, alineado con la imagen de una empresa tecnológica moderna y eficiente",
+        "images": [
+            "./othersProyects/images/logoGaedet.webp"
+            
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "4 horas."
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": ""
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Adobe Illustrator"
+            }
+        ]
+    },
+    {
+        "title": "AgroTendencia - Logo",
+        "description": "Integra elementos icónicos como una mano que sostiene una planta, representando el cuidado y la conexión con la agricultura. Los elementos visuales como el aguacate y la fresa refuerzan el enfoque en productos naturales y saludables. El eslogan Sembrando Bienestar complementa el diseño, subrayando la misión de la marca de promover una agricultura sostenible. Los tonos verdes y azules predominan, evocando naturaleza, crecimiento y confianza",
+        "images": [
+            "./othersProyects/images/logoAgro.webp"
+            
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "4 horas"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": ""
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Adobe Illustrator"
+            }
+        ]
+    },
+    {
+        "title": "El Punto del Vall - Logo",
+        "description": "Combina elementos visuales que representan un carrito de compras, montañas y un sol, junto con un marcador de ubicación, transmitiendo la idea de un mercado local y natural. El nombre El Punto del Vall está diseñado con una tipografía amigable y fluida, que refuerza la conexión con el entorno natural y la frescura de los productos ofrecidos. La combinación de colores verdes y azules resalta la frescura y la vitalidad, mientras que el marcador rojo enfatiza la accesibilidad y la ubicación del mercado.",
+        "images": [
+            "./othersProyects/images/lgooMini.webp"
+            
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "4 horas"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": ""
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Adobe Illustrator"
+            }
+        ]
+    }
+]

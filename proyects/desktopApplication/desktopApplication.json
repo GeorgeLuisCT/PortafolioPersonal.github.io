@@ -1,0 +1,126 @@
+[
+    {
+        "title": "Sistema de Gestión Hotelera",
+        "description": "FUNCIONALIDAD AVANZADA. Cuenta con módulos para reservas, gestión de huéspedes, asignación de habitaciones, facturación y reportes.Fácil de usar, con una interfaz clara que simplifica la administración de las actividades diarias del hotel, incluyendo tours, servicios adicionales y horarios de limpieza. Desarrollado con tecnologías web avanzadas.",
+        "images": [
+            "./desktopApplication/images/friendly1.webp",
+            "./desktopApplication/images/flriendly2.webp",
+            "./desktopApplication/images/friendly.webp",
+            "./desktopApplication/images/friendly3.webp",
+            "./desktopApplication/images/friendly4.webp",
+            "./desktopApplication/images/friendly5.webp",
+            "./desktopApplication/images/friendly6.webp",
+            "./desktopApplication/images/friendly7.webp",
+            "./desktopApplication/images/friendly8.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "4 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, MySQL, React"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Apache NetBeans, workbench, Visual Studio"
+            }
+        ]
+    },
+    {
+        "title": "Invetario y ventas - Jugueria",
+        "description": "INTERFAZ AGRADABLE. Incluye gestión de ventas, control de productos, compras, usuarios, y generación de informes detallados. permite crear recetas personalizadas, realizar un seguimiento de las ventas y pérdidas, y generar gráficos semanales y mensuales.",
+        "images": [
+            "./desktopApplication/images/ventasJugueria.webp",
+            "./desktopApplication/images/CrearRecetaJugueria.webp",
+            "./desktopApplication/images/informesJugueria.webp",
+            "./desktopApplication/images/productosJugueria.webp",
+            "./desktopApplication/images/cierreJugueria.webp",
+            "./desktopApplication/images/loginJugueria.webp"
+
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "4 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, MySQL"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Apache NetBeans, workbench"
+            }
+        ]
+    },
+    {
+        "title": "Invetario y ventas - minimarket",
+        "description": "RAPIDO Y CENCILLO. Permite gestionar ventas, registrar compras, administrar productos, proveedores y trabajadores, genera informes detallados de compras y ventas, tanto mensuales como diarias.",
+        "images": [
+            "./desktopApplication/images/vetaminimarket.webp",
+            "./desktopApplication/images/compraMinimarket.webp",
+            "./desktopApplication/images/otrosMinimarket.webp",
+            "./desktopApplication/images/informeMinimarket.webp",
+            "./desktopApplication/images/loginMinimarket.webp"
+        ],
+        "github": "",
+        "youtubeId": "eYq7WapuDLU",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, MySQL"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Apache NetBeans, workbench"
+            }
+        ]
+    },
+    {
+        "title": "ERP Altamente Configurable",
+        "description": "EN DESARROLLO, diseñado para ser altamente configurable y adaptarse a las necesidades específicas de diferentes empresas. Incluirá módulos para la gestión de ventas, compras, inventario, clientes, empleados, y más, con opciones de personalización en la interfaz y la configuración de roles",
+        "images": [
+            "./desktopApplication/images/loginERP.webp",
+            "./desktopApplication/images/configuracionERP.webp",
+             "./desktopApplication/images/pricipalERP.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "En curso"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, FXML, PostgreSQL"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Apache NetBeans"
+            }
+        ]
+    }
+]

@@ -35,6 +35,10 @@ nav .profile {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-family: 'Candal', sans-serif;
+
 }
 
 nav .profile img {
@@ -91,6 +95,7 @@ nav .opc button {
     z-index: 1;
 
 }
+
 
 .idicadorbar {
     position: absolute;
@@ -461,6 +466,14 @@ main {
 
 }
 
+.peg{
+    gap: 0; 
+    justify-content: start !important;
+    height: auto !important;
+    li{
+        transform: translateY(-10px);
+    }
+}
 .sectionSkills .skillscontent {
     width: 100%;
     height: 100%;
@@ -500,22 +513,25 @@ main {
                 color: whitesmoke;
 
 
-                li::before {
+                .befo::before {
                     content: "";
                     display: inline-block;
                     width: 50px;
-                    height: 50px;
+                    height: 40px;
                     background-image: url('img/icononListSkills.svg');
                     background-size: cover;
                     margin-right: 10px;
                     vertical-align: middle;
-                    margin-bottom: 3px;
+                    transform: translateY(-5px);
                 }
             }
         }
     }
 }
 
+.font{
+    font-family: 'Poppins', sans-serif;
+}
 
 .contact {
 
@@ -546,10 +562,11 @@ main {
             flex-direction: column;
         }
 
-        p {
+        p, a {
             color: white;
             font-family: 'Poppins', sans-serif;
             margin: 0;
+            text-decoration: none;
         }
 
 

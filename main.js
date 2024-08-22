@@ -30,7 +30,7 @@ window.onclick = function(event) {
 
 document.getElementById('descargarBtn').addEventListener('click', function() {
     // URL del archivo PDF
-    var pdfUrl = 'documents/CV Castrejon Jorge Estudiante de IS.pdf';
+    var pdfUrl = 'documents/CVActualizado.pdf';
     
     var link = document.createElement('a');
     link.href = pdfUrl;

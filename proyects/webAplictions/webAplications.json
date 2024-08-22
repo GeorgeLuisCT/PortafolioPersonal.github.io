@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Panel de Control de MyPersonalSafety",
+        "description": "UBICACIÓN EN TIEMPO REAL. Panel de control integral diseñado para monitorear y gestionar alertas de seguridad personal. Permite visualizar el historial de alertas, acceder a datos biométricos, revisar ubicaciones en tiempo real a través de un mapa interactivo, y escuchar audios grabados durante los incidentes.",
+        "images": [
+            "./webAplictions/images/webPersonal1.webp",
+            "./webAplictions/images/webPersonal2.webp",
+            "./webAplictions/images/webPersonal3.webp",
+            "./webAplictions/images/webPersonal4.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, HTML, Javascript, CSS, MySQL"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Visual Studio, Apache NetBeans, Workbench"
+            }
+        ]
+    },
+    {
+        "title": "Red Social Universitaria - Universe",
+        "description": "MENSAJES EN TIEMPO REAL. Permite a los usuarios crear perfiles, unirse a grupos, compartir publicaciones, y comunicarse a través de mensajes directos. Con un enfoque en la interacción académica y social, facilita el intercambio de ideas y recursos.",
+        "images": [
+            "./webAplictions/images/social1.webp",
+            "./webAplictions/images/social2.webp",
+            "./webAplictions/images/social3.webp",
+            "./webAplictions/images/social4.webp",
+            "./webAplictions/images/social5.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "3 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "Java, HTML, Javascript, CSS, MySQL"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Visual Studio, Apache NetBeans, Workbench"
+            }
+        ]
+    },
+    {
+        "title": "Pedidos en linea - Jugueria",
+        "description": "PROTOTIPO. Permite a los usuarios explorar el menú, aprovechar promociones, y realizar pedidos de manera fácil y rápida. La interfaz visualmente atractiva está optimizada para ofrecer una experiencia de usuario fluida, facilitando la navegación y el acceso a las ofertas destacadas.",
+        "images": [
+            "./webAplictions/images/pagina1Jugueria.webp",
+            "./webAplictions/images/pagina2jugueria.webp",
+            "./webAplictions/images/pagina3jugueria.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "20 dias"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "HTML, Javascript, CSS"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Visual Studio"
+            }
+        ]
+    },
+    {
+        "title": "Mi Portafolio",
+        "description": "VISTA  ACTUAL. Portafolio digital que muestra proyectos personales, habilidades técnicas y blandas, así como información académica. Diseñado con un enfoque moderno y visualmente atractivo, permite a los visitantes explorar fácilmente las diferentes secciones.",
+        "images": [
+            "./webAplictions/images/portafolio1.webp",
+            "./webAplictions/images/portafolio2.webp",
+            "./webAplictions/images/portafolio3.webp",
+            "./webAplictions/images/portafolio4.webp",
+            "./webAplictions/images/portafolio5.webp"
+        ],
+        "github": "",
+        "youtubeId": "eYq7WapuDLU",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "1 mes"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "HTML, Javascript, CSS"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Visual Studio"
+            }
+        ]
+    }
+]

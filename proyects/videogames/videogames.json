@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Battle Royale Multijugador - Fast War",
+        "description": "MULTIJUGADOR. Estuvo disponible en la Play Store durante un tiempo. Los jugadores pueden personalizar sus personajes, equiparse con diferentes armas, y enfrentarse en intensas batallas en un entorno 3D. Aunque el proyecto fue abandonado, alcanzó un nivel avanzado de desarrollo.",
+        "images": [
+            "./videogames/images/fastwar6.webp",
+            "./videogames/images/fastwar1.webp",
+            "./videogames/images/fastwar2.webp",
+            "./videogames/images/fastwar3.webp",
+            "./videogames/images/fastwar4.webp",
+            "./videogames/images/fastwat5.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "8 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "C#"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Unity"
+            }
+        ]
+    },
+    {
+        "title": "Simulación de Surf - Surf Game",
+        "description": "MONETIZACIÓN. Los jugadores pueden navegar en diferentes tablas, superar obstáculos en el mar y recolectar monedas para personalizar su equipo. Incluye monetización, ofreciendo a los jugadores la opción de adquirir mejoras y personalizaciones adicionales.",
+        "images": [
+            "./videogames/images/surf1.webp",
+            "./videogames/images/surf2.webp",
+            "./videogames/images/sorf3.webp",
+            "./videogames/images/surf4.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "1 mes"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "C#"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Unity"
+            }
+        ]
+    },
+    {
+        "title": "Terror y acertijos",
+        "description": "PROTOTIPO. Los jugadores deben navegar por laberintos, enfrentarse a enemigos y superar diferentes desafíos para avanzar en la historia. El juego combina elementos de horror con mecánicas de acción y resolución de problemas",
+        "images": [
+            "./videogames/images/obali1.webp",
+            "./videogames/images/obali2.webp",
+            "./videogames/images/obali3.webp",
+            "./videogames/images/obali4.webp",
+            "./videogames/images/obali5.webp"
+        ],
+        "github": "",
+        "youtubeId": "dQw4w9WgXcQ",
+        "features": [
+            {
+                "title": "Timpo de desarrollo:",
+                "icon": "/img/icono_tiempo.svg",
+                "description": "2 meses"
+            },
+            {
+                "title": "Lenguajes:",
+                "icon": "/img/icono_lenguaje.svg",
+                "description": "HTML, Javascript, CSS"
+            },
+            {
+                "title": "Herramientas:",
+                "icon": "/img/icon_erramientas.svg",
+                "description": "Visual Studio"
+            }
+        ]
+    }
+]
