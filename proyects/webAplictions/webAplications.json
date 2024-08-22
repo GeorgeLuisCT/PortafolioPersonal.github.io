@@ -13,18 +13,18 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
-                "description": "2 meses"
+                "icon": "../img/icono_tiempo.svg",
+                "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
-                "description": "Java, HTML, Javascript, CSS, MySQL"
+                "icon": "../img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
-                "description": "Visual Studio, Apache NetBeans, Workbench"
+                "icon": "../img/icon_erramientas.svg",
+                "description": "Adroid studio, Firabase"
             }
         ]
     },
@@ -43,18 +43,18 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
-                "description": "3 meses"
+                "icon": "../img/icono_tiempo.svg",
+                "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
-                "description": "Java, HTML, Javascript, CSS, MySQL"
+                "icon": "../img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
-                "description": "Visual Studio, Apache NetBeans, Workbench"
+                "icon": "../img/icon_erramientas.svg",
+                "description": "Adroid studio, Firabase"
             }
         ]
     },
@@ -71,18 +71,18 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
-                "description": "20 dias"
+                "icon": "../img/icono_tiempo.svg",
+                "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
-                "description": "HTML, Javascript, CSS"
+                "icon": "../img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
-                "description": "Visual Studio"
+                "icon": "../img/icon_erramientas.svg",
+                "description": "Adroid studio, Firabase"
             }
         ]
     },
@@ -101,18 +101,18 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
-                "description": "HTML, Javascript, CSS"
+                "icon": "../img/icono_lenguaje.svg",
+                "description": "Java, XML, SQL Lite"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
-                "description": "Visual Studio"
+                "icon": "../img/icon_erramientas.svg",
+                "description": "Adroid studio, Firabase"
             }
         ]
     }
