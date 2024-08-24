@@ -186,12 +186,13 @@ main {
         padding: 20px;
         border: 3px solid rgba(47, 47, 138, 0.60);
         border-radius: 10px;
-        width: 50%;
-        height: 50%;
+        width: 60%;
+        height: 60%;
         display: flex;
         justify-content: center;
         align-items: center;
         position: relative;
+        text-align: justify;
     }
 
     .close {
@@ -417,7 +418,7 @@ main {
                         }
 
                         .texttop {
-                            font-size: large;
+                            font-size: 1em;
                             position: absolute;
                             width: 14vw;
                             top: -88%;
@@ -426,7 +427,7 @@ main {
                         }
 
                         .textbottom {
-                            font-size: large;
+                            font-size: 1em;
                             position: absolute;
                             width: 14vw;
                             transform: translateX(-45%);
@@ -466,24 +467,28 @@ main {
 
 }
 
-.peg{
-    gap: 0; 
+.peg {
+    gap: 0;
     justify-content: start !important;
     height: auto !important;
-    li{
+    padding-left: 60px !important;
+    font-size: 1em !important;
+
+    li {
         transform: translateY(-10px);
     }
 }
+
 .sectionSkills .skillscontent {
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10%;
+    gap: 5%;
 
     .skillfield {
-        width: 40%;
+        width: 45%;
         height: 80%;
 
         p {
@@ -504,7 +509,7 @@ main {
 
             ul {
                 list-style-type: none;
-                font-size: x-large;
+                font-size: 1.2em;
                 display: flex;
                 flex-direction: column;
                 justify-content: space-around;
@@ -529,7 +534,7 @@ main {
     }
 }
 
-.font{
+.font {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -562,7 +567,8 @@ main {
             flex-direction: column;
         }
 
-        p, a {
+        p,
+        a {
             color: white;
             font-family: 'Poppins', sans-serif;
             margin: 0;
@@ -659,6 +665,11 @@ main {
 
 
 @media (max-width: 1100px) {
+
+    .sectionHome .modal-content {
+        width: 80%;
+        height: 60%;
+    }
 
     .sectionHome .content h1 {
         width: 95%;
@@ -757,26 +768,28 @@ main {
 
     .sectionSkills {
         .skillscontent {
-            flex-direction: column;
-            gap: 3.5%;
-
             .skillfield {
-                width: 90%;
-                height: 45%;
+                height: 95%;
 
-                .info{
+                .info {
                     border-radius: 20px;
+
                     ul {
+                        padding-left: 15px;
+
                         li {
-                            font-size: x-large;
-                        }             
+                            font-size: 1em;
+                        }
+
+                        .befo::before {
+                            height: 30px;
+                            width: 40px;
+                        }
                     }
-                }               
+                }
             }
         }
     }
-
-
 }
 
 
@@ -784,6 +797,11 @@ main {
 /*cuando se oculta la  barra lateral y se coloca encima*/
 
 @media (max-width: 900px) {
+
+    .sectionHome .modal-content {
+        width: 80%;
+        height: 70%;
+    }
 
 
     aside {
@@ -795,7 +813,8 @@ main {
 
         nav .profile {
             flex-direction: row;
-            h1{
+
+            h1 {
                 font-size: small;
                 margin-left: 8px;
                 min-width: 100px;
@@ -854,6 +873,24 @@ main {
         }
     }
 
+    .sectionSkills .skillscontent {
+        flex-direction: column;
+        gap: 2%;
+
+        .skillfield {
+            width: 90%;
+
+            p {
+                font-size: 1.3em;
+            }
+
+            .befo::before {
+                height: 20px;
+                width: 30px;
+            }
+        }
+    }
+
     main {
         height: 88%;
     }
@@ -874,15 +911,25 @@ main {
 
 
     .sectionSkills {
-        .skillscontent {       
-            .skillfield {       
-                .info{
+        .skillscontent {
+            .skillfield {
+
+                .info {
+                    border-radius: 20px;
+
                     ul {
+                        padding-left: 15px;
+
                         li {
                             font-size: large;
-                        }             
+                        }
+
+                        .befo::before {
+                            height: 25px;
+                            width: 30px;
+                        }
                     }
-                }               
+                }
             }
         }
     }
@@ -890,6 +937,11 @@ main {
 
 
 @media (max-width: 600px) {
+
+    .sectionHome .modal-content {
+        width: 80%;
+        height: 80%;
+    }
 
     .sectionHome .content {
 
@@ -932,43 +984,48 @@ main {
         }
     }
 
-    .sectionEducation .maineducation p{
+    .sectionEducation .maineducation p {
         font-size: medium;
     }
 
-    .maineducation{
+    .maineducation {
 
-        
-        .containerinfo{
+
+        .containerinfo {
             height: 90%;
             width: 95%;
-            .details{
-                .timeline{
+
+            .details {
+                .timeline {
                     flex-direction: column;
-                    .line{
+
+                    .line {
                         height: 100%;
                         width: 2px;
-                        .points{
+
+                        .points {
                             flex-direction: column;
                             width: 1500%;
                             top: 0;
                             transform: translateX(-50%);
                             height: 100%;
 
-                            .point{
+                            .point {
                                 height: 4%;
-                                .yearbottom{
+
+                                .yearbottom {
                                     top: 10%;
                                     right: -125%;
                                     transform: translate(-125%, 60%);
                                 }
-                                .yeartop{
+
+                                .yeartop {
                                     top: 7%;
                                     right: -30%;
                                     transform: translate(30%, -7%);
                                 }
-                                
-                                .idicatorbottom{
+
+                                .idicatorbottom {
                                     rotate: 90deg;
                                     position: relative;
                                     top: -150%;
@@ -977,7 +1034,8 @@ main {
                                     width: 35%;
 
                                 }
-                                .indicatortop{
+
+                                .indicatortop {
                                     rotate: -90deg;
                                     position: relative;
                                     top: -130%;
@@ -986,7 +1044,7 @@ main {
                                     width: 35%;
                                 }
 
-                                .textbottom{
+                                .textbottom {
                                     transform: translateX(50%);
                                     width: 25vw;
                                     font-size: medium;
@@ -995,7 +1053,7 @@ main {
                                     text-align: start;
                                 }
 
-                                .texttop{
+                                .texttop {
                                     left: -120%;
                                     transform: translate(-120%, -0%);
                                     width: 25vw;
@@ -1013,6 +1071,12 @@ main {
 }
 
 @media (max-width: 500px) {
+
+    .sectionHome .modal-content {
+        width: 80%;
+        height: 80%;
+        font-size: 0.9em;
+    }
 
     .sectionHome .content {
 
@@ -1041,17 +1105,20 @@ main {
         .skillscontent {
             .skillfield {
                 width: 98%;
-                p{
+
+                p {
                     font-size: x-large;
                 }
+
                 .info {
                     ul {
                         padding: 0 0 0 10px;
+
                         li {
                             font-size: medium;
                         }
 
-                        li::before{
+                        li::before {
                             width: 30px;
                             height: 30px;
                         }
@@ -1061,20 +1128,20 @@ main {
         }
     }
 
-    .maineducation{
-        .containerinfo{
-          
-            .details{
-                .timeline{               
-                    .line{                 
-                        .points{    
-                            .point{
-                                .textbottom{
+    .maineducation {
+        .containerinfo {
+
+            .details {
+                .timeline {
+                    .line {
+                        .points {
+                            .point {
+                                .textbottom {
                                     font-size: small;
                                 }
 
-                                .texttop{
-                                  
+                                .texttop {
+
                                     font-size: small;
                                 }
                             }
@@ -1087,29 +1154,64 @@ main {
 }
 
 @media (max-width: 760px) {
-    .profile{
+    .profile {
         margin-left: 20px;
-
+    }
+    .maineducation .containerinfo{
+        height: 90%;
     }
 }
 
 @media (max-width: 660px) {
-    .profile{
+    .profile {
         margin-left: 90px;
 
     }
 }
 
 @media (max-width: 480px) {
-    .profile{
+    .profile {
         margin-left: 110px;
-
     }
 }
 
 @media (max-width: 380px) {
-    .profile{
+    .profile {
         margin-left: 120px;
 
+    }
+
+    .sectionHome .modal-content {
+
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 280px) {
+
+    .sectionHome .modal-content {
+        font-size: 0.7em;
+    }
+
+    .sectionSkills {
+        & .skillscontent {
+            & .skillfield {
+                & .info {
+                    & ul {
+                        li {
+                            font-size: 0.8em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    @media (max-width: 220px) {
+
+        .sectionHome .modal-content {
+
+            font-size: 0.6em;
+        }
     }
 }
