@@ -15,17 +15,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "8 meses"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
+                "icon": "../img/icono_lenguaje.svg",
                 "description": "C#"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
+                "icon": "../img/icon_erramientas.svg",
                 "description": "Unity"
             }
         ]
@@ -44,17 +44,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
+                "icon": "../img/icono_lenguaje.svg",
                 "description": "C#"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
+                "icon": "../img/icon_erramientas.svg",
                 "description": "Unity"
             }
         ]
@@ -74,17 +74,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "2 mes"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
+                "icon": "../img/icono_lenguaje.svg",
                 "description": "C#"
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
+                "icon": "../img/icon_erramientas.svg",
                 "description": "Unity"
             }
         ]

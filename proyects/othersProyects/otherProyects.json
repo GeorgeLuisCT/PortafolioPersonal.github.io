@@ -11,17 +11,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "4 horas."
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
+                "icon": "../img/icono_lenguaje.svg",
                 "description": ""
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
+                "icon": "../img/icon_erramientas.svg",
                 "description": "Adobe Illustrator"
             }
         ]
@@ -38,17 +38,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "4 horas"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
+                "icon": "../img/icono_lenguaje.svg",
                 "description": ""
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
+                "icon": "../img/icon_erramientas.svg",
                 "description": "Adobe Illustrator"
             }
         ]
@@ -65,17 +65,17 @@
         "features": [
             {
                 "title": "Timpo de desarrollo:",
-                "icon": "/img/icono_tiempo.svg",
+                "icon": "../img/icono_tiempo.svg",
                 "description": "4 horas"
             },
             {
                 "title": "Lenguajes:",
-                "icon": "/img/icono_lenguaje.svg",
+                "icon": "../img/icono_lenguaje.svg",
                 "description": ""
             },
             {
                 "title": "Herramientas:",
-                "icon": "/img/icon_erramientas.svg",
+                "icon": "../img/icon_erramientas.svg",
                 "description": "Adobe Illustrator"
             }
         ]
