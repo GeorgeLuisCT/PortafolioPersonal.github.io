@@ -17,7 +17,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "4 meses"
             },
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "title": "Invetario y ventas - Jugueria",
+        "title": "Inventario y ventas - Juguería",
         "description": "INTERFAZ AGRADABLE. Incluye gestión de ventas, control de productos, compras, usuarios, y generación de informes detallados. permite crear recetas personalizadas, realizar un seguimiento de las ventas y pérdidas, y generar gráficos semanales y mensuales.",
         "images": [
             "./desktopApplication/images/ventasJugueria.webp",
@@ -49,7 +49,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "4 meses"
             },
@@ -66,8 +66,8 @@
         ]
     },
     {
-        "title": "Invetario y ventas - minimarket",
-        "description": "RAPIDO Y CENCILLO. Permite gestionar ventas, registrar compras, administrar productos, proveedores y trabajadores, genera informes detallados de compras y ventas, tanto mensuales como diarias.",
+        "title": "Inventario y ventas - Minimarket",
+        "description": "RÁPIDO Y SENCILLO. Permite gestionar ventas, registrar compras, administrar productos, proveedores y trabajadores, genera informes detallados de compras y ventas, tanto mensuales como diarias.",
         "images": [
             "./desktopApplication/images/vetaminimarket.webp",
             "./desktopApplication/images/compraMinimarket.webp",
@@ -79,7 +79,7 @@
         "youtubeId": "eYq7WapuDLU",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "2 meses"
             },
@@ -107,7 +107,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "En curso"
             },

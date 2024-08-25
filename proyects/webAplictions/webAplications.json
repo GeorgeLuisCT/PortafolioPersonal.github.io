@@ -12,7 +12,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "2 meses"
             },
@@ -24,7 +24,7 @@
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Visual Studio, Apache NetBeans, Workbench"
+                "description": "Visual Studio, Apache NetBeans, MySQL Workbench"
             }
         ]
     },
@@ -42,7 +42,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "3 meses"
             },
@@ -70,9 +70,9 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
-                "description": "20 dias"
+                "description": "20 días"
             },
             {
                 "title": "Lenguajes:",
@@ -88,7 +88,7 @@
     },
     {
         "title": "Mi Portafolio",
-        "description": "VISTA  ACTUAL. Portafolio digital que muestra proyectos personales, habilidades técnicas y blandas, así como información académica. Diseñado con un enfoque moderno y visualmente atractivo, permite a los visitantes explorar fácilmente las diferentes secciones.",
+        "description": "VISTA ACTUAL. Portafolio digital que muestra proyectos personales, habilidades técnicas y blandas, así como información académica. Diseñado con un enfoque moderno y visualmente atractivo, permite a los visitantes explorar fácilmente las diferentes secciones.",
         "images": [
             "./webAplictions/images/portafolio1.webp",
             "./webAplictions/images/portafolio2.webp",
@@ -100,7 +100,7 @@
         "youtubeId": "eYq7WapuDLU",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "1 mes"
             },

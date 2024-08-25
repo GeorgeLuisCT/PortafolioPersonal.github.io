@@ -14,7 +14,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "8 meses"
             },
@@ -43,7 +43,7 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "1 mes"
             },
@@ -73,9 +73,9 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
-                "description": "2 mes"
+                "description": "2 meses"
             },
             {
                 "title": "Lenguajes:",

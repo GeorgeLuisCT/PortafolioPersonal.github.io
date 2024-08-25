@@ -13,19 +13,19 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "3 meses"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, XML, SQLite"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, API AppMovilMyPersonalSaferyRest"
+                "description": "Android Studio, API AppMovilMyPersonalSafetyRest"
             }
         ]
     },
@@ -40,25 +40,25 @@
         "youtubeId": "eYq7WapuDLU",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "20 dias"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, XML, SQLite"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio"
+                "description": "Android Studio"
             }
         ]
     },
     {
         "title": "Delivery y reserva de menú",
-        "description": "PROTOTIPO. Gestión de pedidos en restaurantes. Permite registrarse, visualizar el menú, seleccionar platillos, agregar extras, y realizar pagos de manera rápida.Incluye opciones de pago digital y permite hacer reservas y personalizadas. Envia el pedido automaticamente al correo del restaruante.",
+        "description": "PROTOTIPO. Gestión de pedidos en restaurantes. Permite registrarse, visualizar el menú, seleccionar platillos, agregar extras, y realizar pagos de manera rápida.Incluye opciones de pago digital y permite hacer reservas y personalizadas. Envia el pedido automáticamente al correo del restaruante.",
         "images": [
             "./aplicationMoviles/images/restarantpeditos1.webp",
             "./aplicationMoviles/images/pedidosrestaruante2.webp",
@@ -68,19 +68,19 @@
         "youtubeId": "dQw4w9WgXcQ",
         "features": [
             {
-                "title": "Timpo de desarrollo:",
+                "title": "Tiempo de desarrollo:",
                 "icon": "../img/icono_tiempo.svg",
                 "description": "1 mes"
             },
             {
                 "title": "Lenguajes:",
                 "icon": "../img/icono_lenguaje.svg",
-                "description": "Java, XML, SQL Lite"
+                "description": "Java, XML, SQLite"
             },
             {
                 "title": "Herramientas:",
                 "icon": "../img/icon_erramientas.svg",
-                "description": "Adroid studio, Firabase"
+                "description": "Android Studio, Firebase"
             }
         ]
     }
